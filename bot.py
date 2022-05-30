@@ -1,1 +1,1 @@
-test
+FEATURE = "this is a new feature"
